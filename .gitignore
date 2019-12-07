@@ -1,0 +1,14 @@
+data
+*.agenda
+.ipynb_checkpoints
+*.so
+*.o
+target/
+__pycache__/
+build/
+cython/*.c
+cython_demo/*.c
+cffi_demo/*.c
+dask-worker-space/
+*.lock
+*.dirlock
