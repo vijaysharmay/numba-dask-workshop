@@ -61,7 +61,7 @@ olefile==0.46
 packaging==19.2
 pandas==0.25.3
 pandocfilters==1.4.2
-paramiko==2.6.0
+paramiko==2.10.1
 parso==0.5.1
 partd==1.1.0
 pexpect==4.7.0
